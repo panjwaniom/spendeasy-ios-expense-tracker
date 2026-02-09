@@ -24,11 +24,19 @@ A beautiful, intuitive iOS expense tracker that helps you manage your daily spen
 ## 📱 Screenshots
 
 _Screenshots will be added here showcasing:_
+
 - Main expense tracking screen with donut chart
 - Add expense view with category selection
 - Monthly overview with spending trends
 
+### Home Screen
+![Home Screen](screenshots/home-screen.png)
 
+### Add Expense
+![Add Expense](screenshots/add-expense.png)
+
+### Monthly Overview
+![Monthly Overview](screenshots/monthly-overview.png)
 
 ## 🛠 Tech Stack
 
