@@ -30,13 +30,13 @@ _Screenshots will be added here showcasing:_
 - Monthly overview with spending trends
 
 ### Home Screen
-![Home Screen](screenshots/home-screen.png)
+![Home Screen](Screenshots/home-screen.png)
 
 ### Add Expense
-![Add Expense](screenshots/add-expense.png)
+![Add Expense](Screenshots/add-expense.png)
 
 ### Monthly Overview
-![Monthly Overview](screenshots/monthly-overview.png)
+![Monthly Overview](Screenshots/monthly-view.png)
 
 ## 🛠 Tech Stack
 
