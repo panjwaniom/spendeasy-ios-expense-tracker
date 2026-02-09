@@ -29,14 +29,10 @@ _Screenshots will be added here showcasing:_
 - Add expense view with category selection
 - Monthly overview with spending trends
 
-### Home Screen
-### Add Expense
-### Monthly Overview
-
 <p align="center">
-  <img src="screenshots/home-screen.png" width="250"/>
-  <img src="screenshots/add-expense.png" width="250"/>
-  <img src="screenshots/monthly-view.png" width="250"/>
+  <img src="Screenshots/home-screen.png" width="250"/>
+  <img src="Screenshots/add-expense.png" width="250"/>
+  <img src="Screenshots/monthly-view.png" width="250"/>
 </p>
 
 ## 🛠 Tech Stack
